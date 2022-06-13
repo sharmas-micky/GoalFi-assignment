@@ -1,0 +1,6 @@
+img{
+    width:35rem ;
+    @media (max-width: 768px){
+        max-width:25rem ;
+      }
+}
